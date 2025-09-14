@@ -2,7 +2,6 @@ import java.util.*
 import kotlin.random.Random
 
 fun main() {
-    // Задача 1: Пример вызова
     println("Задача 1:")
     task1()
 
